@@ -1,0 +1,14 @@
+# Environment variables and secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Local Database & Uploads
+case_resolution.db
+uploads/
+
+# Streamlit temporary data
+.streamlit/secrets.toml
